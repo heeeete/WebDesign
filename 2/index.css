@@ -160,3 +160,8 @@ h2 {
 	margin: 0 auto;
 	text-align: center;
 }
+
+a {
+	color: gray;
+	text-decoration-line: none;
+}
